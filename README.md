@@ -8,3 +8,9 @@
 
 ![Настройки проекта](https://github.com/sergey-selivanov-png/sdvps-materials/blob/main/images/test1.jpg)
 ![Результаты сборки](https://github.com/sergey-selivanov-png/sdvps-materials/blob/main/images/test2.jpg)
+
+# Задание 3
+
+![Настройки проекта](https://github.com/sergey-selivanov-png/sdvps-materials/blob/main/images/test7.jpg)
+![Результаты сборки](https://github.com/sergey-selivanov-png/sdvps-materials/blob/main/images/test6.jpg)
+![Результаты сборки](https://github.com/sergey-selivanov-png/sdvps-materials/blob/main/images/test5.jpg)
