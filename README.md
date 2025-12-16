@@ -1,6 +1,6 @@
-## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
+# Задание 1
 
+![Настройки проекта](~/Pictures/jenkins-settings.png)
+![Результаты сборки](~/Pictures/jenkins-build-output1.png)
+![Результаты сборки](~/Pictures/jenkins-build-output2.png)
 
-- [Дополнительный материал для занятия "8.2. Что такое DevOps. СI/СD"](CICD/8.2-hw.md)
-
-- [Дополнительный материал для занятия "8.3. GitLab"](https://github.com/netology-code/sdvps-materials/tree/main/gitlab)
