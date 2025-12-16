@@ -1,6 +1,6 @@
 # Задание 1
 
-![Настройки проекта](~/Pictures/jenkins-settings.png)
-![Результаты сборки](~/Pictures/jenkins-build-output1.png)
-![Результаты сборки](~/Pictures/jenkins-build-output2.png)
+![Настройки проекта](images/jenkins-settings.jpg)
+![Результаты сборки](images/jenkins-build-output1.jpg)
+![Результаты сборки](images/jenkins-build-output2.jpg)
 
